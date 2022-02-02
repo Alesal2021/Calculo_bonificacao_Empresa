@@ -1,0 +1,10 @@
+s1 = int(input('Digite se salario:'))
+s2 = int(input('Digite seu tempo de empresa:'))
+if s2 >= 5:
+    acr = (s1 * 20) / 100
+    res = s1 + acr
+    print('Seu tempo de empresa e {} anos, seu salrio sera = R${} '.format(s2,res))
+elif s2 <=4:
+    acr = (s1 * 10) / 100
+    res = s1 + acr
+    print('Seu tempo de empresa e {} anos, seu salario sera = R${} '.format(s2,res))
