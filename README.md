@@ -2,3 +2,4 @@
 seus funcionários com mais de 5 anos de empresa. Todos os outros que não se enquadram nessa
 categoria receberam uma bonificação de 10%, somente. Escreva um algoritmo que leia o salário do
 funcionário e seu tempo de empresa, e apresente a bonificação de cada funcionário na tela.
+EXISTE DOIS ARQUIVO UM  MODO SIMPLIFICADO  E OUTRO MAIS COMPLETO :)
